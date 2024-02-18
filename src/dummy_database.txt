@@ -1,0 +1,10 @@
+Dummy Database and User Credentials:
+- For testing purposes, this script utilizes a dummy database to simulate employee leave records.
+- User credentials are provided below for testing login functionality:
+     - Employees:
+         - Username: Alice, Password: password
+         - Username: Bob, Password: password
+         - Username: Charlie, Password: password
+     - Supervisor:
+         - Username: Supervisor, Password: password
+ - These credentials can be used to log in and test the functionalities of the leave management system.
